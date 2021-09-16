@@ -29,3 +29,14 @@ I'm 21 years old, i work with banking software in "Belgazprom Bank". I have been
 
 - Git (remote service GitHub)
 
+# Code Example
+
+```javascript
+const  rev = str =>  {
+ return  String(str).split('').reverse().map(Number)
+}
+console.log(rev(123456))
+```
+# Experience
+
+I had experience in writing bot telegrams, my team and I took second place in the competition of Belarusian Republican Youth Union
