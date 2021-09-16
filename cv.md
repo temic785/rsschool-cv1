@@ -40,3 +40,10 @@ console.log(rev(123456))
 # Experience
 
 I had experience in writing bot telegrams, my team and I took second place in the competition of Belarusian Republican Youth Union
+# Education
+- College of Business and Law
+
+- Belarusian State University of Informatics and Radioelectronics.
+# English
+
+__А2__
