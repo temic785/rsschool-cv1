@@ -1,1 +1,1 @@
-https://temic785.github.io/rsschool-cv/cv
+https://temic785.github.io/rsschool-cv/cv 
